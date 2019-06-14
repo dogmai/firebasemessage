@@ -1,0 +1,6 @@
+framework module Pods_firebasemessage {
+  umbrella header "Pods-firebasemessage-umbrella.h"
+
+  export *
+  module * { export * }
+}
